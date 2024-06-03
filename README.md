@@ -1,8 +1,8 @@
-Welcome to your new dbt project!
+Data Transformation on AirBnB Dataset with dbt and Snowflake
 
-### Using the starter project
+### Project Setup
 
-Try running the following commands:
+Commands:
 - dbt run
 - dbt test
 
